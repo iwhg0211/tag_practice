@@ -71,4 +71,4 @@ group :test do
   gem "webdrivers"
 end
 
-gem 'acts-as-taggable-on', '~> 6.0'
+gem 'acts-as-taggable-on'
